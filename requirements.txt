@@ -1,5 +1,5 @@
 cellpose==3.1.1.2
-napari[all]==0.6.1
+napari[all]==0.5.6
 napari-animation==0.0.8
 napari-accelerated-pixel-and-object-classification==0.14.1
 napari-assistant==0.4.11
