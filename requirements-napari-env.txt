@@ -14,6 +14,7 @@ siphash24
 pyclesperanto_prototype
 pyopencl
 typing_extensions
+stardist-napari
 napari-trackastra
 napari-accelerated-pixel-and-object-classification
 git+https://github.com/DBI-INFRA/apoc/
