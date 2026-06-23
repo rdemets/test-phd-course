@@ -1,7 +1,6 @@
 cellpose==3.1.1.3
 napari[all]==0.6.6
 napari-animation
-napari-accelerated-pixel-and-object-classification
 napari-assistant
 napari-clusters-plotter
 napari-feature-classifier
@@ -15,5 +14,7 @@ siphash24
 pyclesperanto_prototype
 pyopencl
 typing_extensions
-
-
+napari-trackastra
+napari-accelerated-pixel-and-object-classification
+git+https://github.com/DBI-INFRA/apoc/
+git+https://github.com/jeskowagner/cellpose-napari.git@feature/2d-plus-time
